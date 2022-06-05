@@ -5,7 +5,7 @@
 ---
 ## ⚫ NFT Stealer / ETH Stealer / 
 
-![preview](https://imgur.com/a/VxD2rV3)
+![preview]![Screenshot_21](https://user-images.githubusercontent.com/106552824/172047335-81f95506-e83b-4bad-be61-55f5cb78e400.png)
 ---
 
 ## `🛡️ Features`
